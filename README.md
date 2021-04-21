@@ -1,12 +1,17 @@
+# **NEWS: Process-in-Process has new GitHub repo**
+  new URL: **https://github.com/procinproc**
+
+This repo is no longer maintained.  Refer to the above new repo.
+
 # PiP Testsuite
 
 Testsuite of Process-in-Process
 
 This is a testsuite of Process-in-Process ([PiP]
-(https://github.com/RIKEN-SysSoft/PiP)) covering all PiP API
+(https://github.com/procinproc/PiP)) covering all PiP API
 versions.  This package can also be installed by the PiP package
 installing program
-([PiP-pip](https://github.com/RIKEN-SysSoft/PiP-pip)) and once the
+([PiP-pip](https://github.com/procinproc/PiP-pip)) and once the
 installation is finished the installed PiP will be automatically
 tested.
 
@@ -60,5 +65,6 @@ Or, join our PiP users' mailing list;
 # Author
 
 Atsushi Hori<br>
-Riken Center for Commputational Science (R-CCS)<br>
+National Institute for Informatics<br>
+(formerly Riken Center for Commputational Science)<br>
 Japan<br>
